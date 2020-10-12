@@ -165,7 +165,7 @@ The console displayed something which I first thought to be a hex dump that i ha
 
 [Zero's Riddle](https://github.com/SpiritusSancti5/Reply-Security-Challenge-2020/blob/main/Zer0's%20riddle)
 
-Being stuck, i then looked at the last character of each chunk and then I though I thought I spotted the flag:
+Being stuck, i then looked at the last character of each chunk and then I thought I spotted the flag:
 **{FLG:i74370prrn343<}**
 Which was wrong.
 
