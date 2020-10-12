@@ -169,7 +169,7 @@ Being stuck, i then looked at the last character of each chunk and then I though
 **{FLG:i74370prrn343<}**
 Which was wrong.
 
-However Jani, one of my team mates pointed out these are actually TCP packages have to be decoded so you can reorder them based on the time received.
+However Jani, one of my team mates pointed out these are actually TCP packages have to be decoded (using a hex packet decoder) so you can reorder them based on the time received.
 
 ## FLAG
 
